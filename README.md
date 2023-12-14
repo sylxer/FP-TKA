@@ -1,7 +1,7 @@
 # FP-TKA
 
 ## I. Introduction
-Pada final project TKA ini, diminta untuk merancang arsitektur cloud 
+Pada final project TKA ini, diminta untuk merancang arsitektur cloud untuk deploy aplikasi. Diberikan pilihan lingkungan cloud yakni menggunakan Digital Ocean, Microsoft Azure, dan Local Virtual Machine dan kami memutuskan untuk menggunakan Microsoft Azure. Setelah itu, diminta untuk mendeploy aplikasi dan mengetes load balancing menggunakan locust.
 
 ## II. Rancangan Arsitektur Komputasi Awan dan Spesifikasi
 - Rancangan arsitektur
