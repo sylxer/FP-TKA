@@ -1,6 +1,6 @@
 # FP-TKA
 
-## I. Introduction, jelaskan permasalahan (bisa mereferensi ke soal ini)
+## I. Introduction
 ## II. Rancangan Arsitektur Komputasi Awan dan Spesifikasi
 - Rancangan arsitektur
 ![alt text](img/rancangan_arsitektur.png)
