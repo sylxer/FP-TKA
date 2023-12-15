@@ -26,19 +26,19 @@ Pada final project TKA ini, diminta untuk merancang arsitektur cloud untuk deplo
 
 ## IV. Hasil Pengujian Endpoint setiap API
 - 1. Get All Orders
-![IV.1](img/IV.1.png)
+![IV.1](img/IV/1.jpg)
 
 - 2. Get a Specific Order by ID
-![IV.2](img/IV.2.png)
+![IV.2](img/IV/2.jpg)
 
 - 3. Create a New Order
-![IV.3](img/IV.3.png)
+![IV.3](img/IV/4.jpg)
 
 - 4. Update an Order by ID
-![IV.4](img/IV.4.png)
+![IV.4](img/IV/5.jpg)
 
 - 5. Delete an Order by ID
-![IV.5](img/IV.5.png)
+![IV.5](img/IV/3.jpg)
 
 
 ## V. Hasil Pengujian dan Analisis Loadtesting Menggunakan Locust
