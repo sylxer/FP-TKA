@@ -48,6 +48,10 @@ Pada final project TKA ini, diminta untuk merancang arsitektur cloud untuk deplo
 
 
 ## V. Hasil Pengujian dan Analisis Loadtesting Menggunakan Locust
+ga tau taro dipoint mana
+![alt text](img/V/1.jpg)
+![alt text](img/V/2.jpg)
+
 - 1. Jumlah Request per seconds (RPS)
 ![V.1](img/V./1.jpg)
 
