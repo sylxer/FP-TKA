@@ -49,10 +49,10 @@ Pada final project TKA ini, diminta untuk merancang arsitektur cloud untuk deplo
 
 ## V. Hasil Pengujian dan Analisis Loadtesting Menggunakan Locust
 - 1. Jumlah Request per seconds (RPS)
-![V.1](img/V/1.jpg)
+![V.1](img/V./1.jpg)
 
 - 2. Jumlah peak concurrency maksimum yang dapat ditangani oleh server dengan spawn rate 25 dan durasi waktu load testing 60 detik
-![V.2](img/V/2.jpg)
+![V.2](img/V./2.jpg)
 
 - 3. Jumlah peak concurrency maksimum yang dapat ditangani oleh server dengan spawn rate 50 dan durasi waktu load testing 60 detik
 ![V.3](img/IV.3.png)
@@ -67,8 +67,8 @@ Setelah percobaan yang kami lakukan berulang kali, jumlah load balancer sebaikny
 ## Problems
 - Load balancer masih dalam kondisi failure.
   Dampak: Load balancer tidak dapat berfungsi sebagai pengatur lalu lintas ke backend server. Hal ini menyebabkan backend server tidak dapat diakses.
-![alt text](img/V.1.jpg)
-![alt text](img/V.1.jpg)
+![alt text](img/V/1.jpg)
+![alt text](img/V/2.jpg)
 
 - Load balancer masih dalam kondisi down.
 Penyebab down load balancer belum diketahui secara pasti. Load balancer telah dikonfigurasi ulang dengan jumlah worker yang berbeda, yaitu 2 dan 3 worker. Namun, load balancer tetap down.
