@@ -12,6 +12,11 @@ Pada final project TKA ini, diminta untuk merancang arsitektur cloud untuk deplo
 ![alt text](img/tabel_spesifikasi.png)
 
 ## III. Langkah-langkah Implementasi dan Konfigurasi
+1. Membuat Database dan connection string 
+![alt text](img/tabel_spesifikasi.png)
+
+2. Create ‘New Connection’ dengan string database yang sudah ada sebelumnya
+![alt text](img/tabel_spesifikasi.png)
 
 ## IV. Hasil Pengujian Endpoint setiap API
 - 1. Get All Orders
