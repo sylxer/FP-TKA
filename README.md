@@ -1,13 +1,13 @@
 # Laporan Final Project TKA
 
 ## Kelompok 3 Kelas B
-| Nama | NRP |
-|---|---|
+| Nama             | NRP        |
+--------------------------------- 
 | Sylvia Febrianti | 5027221019 |
-| Steven Figo | 5027221021 |
+| Steven Figo      | 5027221021 |
 | Salsabila Amalia | 5027221023 |
-| M. Faishal R. | 5027221026 |
-| Samuel Yuma | 5027221029 |
+| M. Faishal R.    | 5027221026 |
+| Samuel Yuma      | 5027221029 |
 
 
 ## I. Introduction
@@ -19,13 +19,32 @@ Kemudian anda diminta untuk mendesain arsitektur cloud yang sesuai dengan kebutu
 
 Pada final project TKA ini, diminta untuk merancang arsitektur cloud untuk deploy aplikasi. Diberikan pilihan lingkungan cloud yakni menggunakan Digital Ocean, Microsoft Azure, dan Local Virtual Machine dan kami memutuskan untuk menggunakan Microsoft Azure. Setelah itu, diminta untuk mendeploy aplikasi dan mengetes load balancing menggunakan locust. Kita diminta untuk mendesain arsitektur cloud yang hemat biaya untuk aplikasi berbasis API yang akan digunakan untuk bisnis digital marketing.
 
+
+
 ## II. Rancangan Arsitektur Komputasi Awan dan Spesifikasi
-- Rancangan arsitektur
-![alt text](img/rancangan_arsitektur.png)
+### Rancangan arsitektur
+![alt text](img/II/arsitektur.jpg)
 
 
-- Tabel spesifikasi
-![alt text](img/tabel_spesifikasi.png)
+### Tabel spesifikasi
+- load balancer
+![alt text](img/II/load_balancer.jpg)
+
+- worker
+![alt text](img/II/worker.jpg)
+
+- database
+![alt text](img/II/database.jpg)
+
+- tabel
+| No. | Nama           | Spesifikasi       | Fungsi        | Harga/bulan |
+--------------------------------------------------------------------------
+|  1  | Load Balancing | 1vCPU, 1GB Memory | Load Balancer | 24 USD      |
+|  2  | App 1          | 1vCPU, 1GB Memory | App Worker    | 8 USD       |
+|  3  | App 2          | 1vCPU, 1GB Memory | App Worker    | 8 USD       |
+|  4  | Database       | 1vCPU, 1GB Memory | Database      | 15 USD      |
+
+
 
 ## III. Langkah-langkah Implementasi dan Konfigurasi
 
@@ -44,6 +63,7 @@ Pada final project TKA ini, diminta untuk merancang arsitektur cloud untuk deplo
 
 ![alt text](img/img/5.jpg)
 ![alt text](img/img/6.jpg)
+
 
 
 ## IV. Hasil Pengujian Endpoint setiap API
@@ -80,9 +100,13 @@ ga tau taro dipoint mana
 - 4. Jumlah peak concurrency maksimum yang dapat ditangani oleh server dengan spawn rate 100 dan durasi waktu load testing 60 detik
 ![V.4](img/IV.4.png)
 
+
+
 ## VI. Kesimpulan dan saran.
 Cloud computing dapat membantu pengguna untuk menghemat biaya, meningkatkan efisiensi, dan meningkatkan ketersediaan aplikasi dan layanan mereka.
 Setelah melakukan pengecekan harga, harga untuk digital ocean lebih murah
+
+
 
 ## Problems
 - Load balancer masih dalam kondisi failure.
