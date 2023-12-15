@@ -13,10 +13,10 @@ Pada final project TKA ini, diminta untuk merancang arsitektur cloud untuk deplo
 
 ## III. Langkah-langkah Implementasi dan Konfigurasi
 1. Membuat Database dan connection string 
-![alt text](/img/img/1.jpg)
-![alt text](/img/img/2.jpg)
-![alt text](/img/img/3.jpg)
-![alt text](/img/img/4.jpg)
+![alt text](img/img/1.jpg)
+![alt text](img/img/2.jpg)
+![alt text](img/img/3.jpg)
+![alt text](img/img/4.jpg)
 
 3. Create ‘New Connection’ dengan string database yang sudah ada sebelumnya
 ![alt text](img/tabel_spesifikasi.pn)
