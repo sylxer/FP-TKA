@@ -41,6 +41,7 @@ Pada final project TKA ini, diminta untuk merancang arsitektur cloud untuk deplo
 
 
 - Tabel
+
 Tabel Berikut adalah tabel spesifikasi.
 
 | No. | Nama           | Spesifikasi       | Fungsi        | Harga/bulan |
