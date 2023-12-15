@@ -1,7 +1,13 @@
 # FP-TKA
 
 ## I. Introduction
-Pada final project TKA ini, diminta untuk merancang arsitektur cloud untuk deploy aplikasi. Diberikan pilihan lingkungan cloud yakni menggunakan Digital Ocean, Microsoft Azure, dan Local Virtual Machine dan kami memutuskan untuk menggunakan Microsoft Azure. Setelah itu, diminta untuk mendeploy aplikasi dan mengetes load balancing menggunakan locust.
+Anda adalah seorang lulusan Teknologi Informasi, sebagai ahli IT, salah satu kemampuan yang harus dimiliki adalah Keampuan merancang, membangun, mengelola aplikasi berbasis komputer menggunakan layanan awan untuk memenuhi kebutuhan organisasi.(menurut kurikulum IT ITS 2023 😙)
+
+Pada suatu saat teman anda ingin mengajak anda memulai bisnis di bidang digital marketing, anda diberikan sebuah aplikasi berbasis API
+
+Kemudian anda diminta untuk mendesain arsitektur cloud yang sesuai dengan kebutuhan aplikasi tersebut. Apabila dana maksimal yang diberikan adalah 1 juta rupiah per bulan (65 US$) konfigurasi cloud terbaik seperti apa yang bisa dibuat?
+
+Pada final project TKA ini, diminta untuk merancang arsitektur cloud untuk deploy aplikasi. Diberikan pilihan lingkungan cloud yakni menggunakan Digital Ocean, Microsoft Azure, dan Local Virtual Machine dan kami memutuskan untuk menggunakan Microsoft Azure. Setelah itu, diminta untuk mendeploy aplikasi dan mengetes load balancing menggunakan locust. Kita diminta untuk mendesain arsitektur cloud yang hemat biaya untuk aplikasi berbasis API yang akan digunakan untuk bisnis digital marketing.
 
 ## II. Rancangan Arsitektur Komputasi Awan dan Spesifikasi
 - Rancangan arsitektur
@@ -43,10 +49,10 @@ Pada final project TKA ini, diminta untuk merancang arsitektur cloud untuk deplo
 
 ## V. Hasil Pengujian dan Analisis Loadtesting Menggunakan Locust
 - 1. Jumlah Request per seconds (RPS)
-![V.1](img/IV.1.png)
+![V.1](img/V/1.jpg)
 
 - 2. Jumlah peak concurrency maksimum yang dapat ditangani oleh server dengan spawn rate 25 dan durasi waktu load testing 60 detik
-![V.2](img/IV.2.png)
+![V.2](img/V/2.jpg)
 
 - 3. Jumlah peak concurrency maksimum yang dapat ditangani oleh server dengan spawn rate 50 dan durasi waktu load testing 60 detik
 ![V.3](img/IV.3.png)
@@ -55,3 +61,5 @@ Pada final project TKA ini, diminta untuk merancang arsitektur cloud untuk deplo
 ![V.4](img/IV.4.png)
 
 ## VI. Kesimpulan dan saran.
+Setelah percobaan yang kami lakukan berulang kali, jumlah load balancer sebaiknya sama dengan jumlah worker karena ketika kami mencoba menggunakan 1 load balancer dan 3 worker terjadi down pada ketiga worker tersebut
+![alt text](img/img/12.jpg)
