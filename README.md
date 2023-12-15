@@ -28,22 +28,26 @@ Pada final project TKA ini, diminta untuk merancang arsitektur cloud untuk deplo
 
 ### Tabel spesifikasi
 - load balancer
+
 ![alt text](img/II/load_balancer.jpg)
 
 - worker
+
 ![alt text](img/II/worker.jpg)
 
 - database
+
 ![alt text](img/II/database.jpg)
 
 - tabel
 Berikut adalah tabel spesifikasi.
 | No. | Nama           | Spesifikasi       | Fungsi        | Harga/bulan |
 |-----|----------------|-------------------|---------------|-------------|
-|  1  | Load Balancing | 1vCPU, 1GB Memory | Load Balancer | 24 USD      |
-|  2  | App 1          | 1vCPU, 1GB Memory | App Worker    | 8 USD       |
-|  3  | App 2          | 1vCPU, 1GB Memory | App Worker    | 8 USD       |
-|  4  | Database       | 1vCPU, 1GB Memory | Database      | 15 USD      |
+| 1   | Load Balancing | 1vCPU, 1GB Memory | Load Balancer | $24 USD     |
+| 2   | App 1          | 1vCPU, 1GB Memory | App Worker    | $8 USD      |
+| 3   | App 2          | 1vCPU, 1GB Memory | App Worker    | $8 USD      |
+| 4   | Database       | 1vCPU, 1GB Memory | Database      | $15 USD     |
+
 
 
 
