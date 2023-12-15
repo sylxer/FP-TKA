@@ -18,17 +18,22 @@ Pada final project TKA ini, diminta untuk merancang arsitektur cloud untuk deplo
 ![alt text](img/tabel_spesifikasi.png)
 
 ## III. Langkah-langkah Implementasi dan Konfigurasi
-1. Membuat Database dan connection string
+
+1. Membuat droplet baru
+![alt text](img/ss/1.jpg)
+
+2. Membuat Database dan connection string
  
 ![alt text](img/img/1.jpg)
 ![alt text](img/img/2.jpg)
 ![alt text](img/img/3.jpg)
 ![alt text](img/img/4.jpg)
 
-2. Create ‘New Connection’ dengan string database yang sudah ada sebelumnya, dan buat database sesuai dengan variabel yang sudah dibuat di dalam app.py
+3. Create ‘New Connection’ dengan string database yang sudah ada sebelumnya, dan buat database sesuai dengan variabel yang sudah dibuat di dalam app.py
 
 ![alt text](img/img/5.jpg)
 ![alt text](img/img/6.jpg)
+
 
 ## IV. Hasil Pengujian Endpoint setiap API
 - 1. Get All Orders
