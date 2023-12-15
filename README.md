@@ -100,7 +100,7 @@ Untuk poin ini, dikarenakan terkendala load balancer yang down, maka pengujian l
 
 ## VI. Kesimpulan dan saran.
 Cloud computing dapat membantu pengguna untuk menghemat biaya, meningkatkan efisiensi, dan meningkatkan ketersediaan aplikasi dan layanan mereka.
-Setelah melakukan pengecekan harga, harga untuk digital ocean lebih murah
+Setelah melakukan pengecekan harga, harga untuk Digital Ocean lebih murah dibandingkan dengan Microsoft Azure. Sehingga dengan budget $65/bulan sebenarnya sudah dapat mendeploy aplikasi. Dalam hal ini dilakukan konfigurasi satu load balancer, dua worker app, dan satu database yang masing masing memiliki spesifikasi 1vCPU dan 1GB memory. Dengan konfigurasi tersebut, didapat harga $55/bulan.
 
 
 
