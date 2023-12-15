@@ -37,6 +37,7 @@ Pada final project TKA ini, diminta untuk merancang arsitektur cloud untuk deplo
 ![alt text](img/II/database.jpg)
 
 - tabel
+Berikut adalah tabel spesifikasi.
 | No. | Nama           | Spesifikasi       | Fungsi        | Harga/bulan |
 --------------------------------------------------------------------------
 |  1  | Load Balancing | 1vCPU, 1GB Memory | Load Balancer | 24 USD      |
