@@ -19,8 +19,10 @@ Pada final project TKA ini, diminta untuk merancang arsitektur cloud untuk deplo
 ![alt text](img/img/3.jpg)
 ![alt text](img/img/4.jpg)
 
-2. Create ‘New Connection’ dengan string database yang sudah ada sebelumnya
+2. Create ‘New Connection’ dengan string database yang sudah ada sebelumnya, dan buat database sesuai dengan variabel yang sudah dibuat di dalam app.py
+
 ![alt text](img/img/5.jpg)
+![alt text](img/img/6.jpg)
 
 ## IV. Hasil Pengujian Endpoint setiap API
 - 1. Get All Orders
