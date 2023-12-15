@@ -91,22 +91,11 @@ Tabel Berikut adalah tabel spesifikasi.
 
 
 ## V. Hasil Pengujian dan Analisis Loadtesting Menggunakan Locust
-ga tau taro dipoint mana
+
+- Jumlah Request per seconds (RPS) dan Jumlah peak concurrency maksimum yang dapat ditangani oleh server dengan spawn rate 25, 50, dan 100 untuk durasi waktu load testing 60 detik V.2
 ![alt text](img/V/1.jpg)
 ![alt text](img/V/2.jpg)
-
-- 1. Jumlah Request per seconds (RPS)
-![V.1](img/V./1.jpg)
-
-- 2. Jumlah peak concurrency maksimum yang dapat ditangani oleh server dengan spawn rate 25 dan durasi waktu load testing 60 detik
-![V.2](img/V./2.jpg)
-
-- 3. Jumlah peak concurrency maksimum yang dapat ditangani oleh server dengan spawn rate 50 dan durasi waktu load testing 60 detik
-![V.3](img/IV.3.png)
-
-- 4. Jumlah peak concurrency maksimum yang dapat ditangani oleh server dengan spawn rate 100 dan durasi waktu load testing 60 detik
-![V.4](img/IV.4.png)
-
+Untuk poin ini, dikarenakan terkendala load balancer yang down, maka pengujian locust tidak memungkinkan
 
 
 ## VI. Kesimpulan dan saran.
