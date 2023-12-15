@@ -23,7 +23,7 @@ Pada final project TKA ini, diminta untuk merancang arsitektur cloud untuk deplo
 
 ## II. Rancangan Arsitektur Komputasi Awan dan Spesifikasi
 ### Rancangan arsitektur
-![alt text](img/rancangan_arsitektur.jpg)
+![alt text](img/rancangan_arsitektur.png)
 
 
 ### Tabel spesifikasi
@@ -39,15 +39,16 @@ Pada final project TKA ini, diminta untuk merancang arsitektur cloud untuk deplo
 
 ![alt text](img/II/database.jpg)
 
-- tabel
-Berikut adalah tabel spesifikasi.
+
+- Tabel
+Tabel Berikut adalah tabel spesifikasi.
+
 | No. | Nama           | Spesifikasi       | Fungsi        | Harga/bulan |
 |-----|----------------|-------------------|---------------|-------------|
 | 1   | Load Balancing | 1vCPU, 1GB Memory | Load Balancer | $24 USD     |
 | 2   | App 1          | 1vCPU, 1GB Memory | App Worker    | $8 USD      |
 | 3   | App 2          | 1vCPU, 1GB Memory | App Worker    | $8 USD      |
 | 4   | Database       | 1vCPU, 1GB Memory | Database      | $15 USD     |
-
 
 
 
