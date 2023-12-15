@@ -61,8 +61,6 @@ Pada final project TKA ini, diminta untuk merancang arsitektur cloud untuk deplo
 ![V.4](img/IV.4.png)
 
 ## VI. Kesimpulan dan saran.
-Setelah percobaan yang kami lakukan berulang kali, jumlah load balancer sebaiknya sama dengan jumlah worker karena ketika kami mencoba menggunakan 1 load balancer dan 3 worker terjadi down pada ketiga worker tersebut
-![alt text](img/img/12.jpg)
 
 ## Problems
 - Load balancer masih dalam kondisi failure.
