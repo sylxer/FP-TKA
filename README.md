@@ -1,11 +1,13 @@
 # Laporan Final Project TKA
 
 ## Kelompok 3 Kelas B
-Sylvia Febrianti 5027221019
-Steven Figo 5027221021
-Salsabila Amalia 5027221023
-M. Faishal R. 5027221026
-Samuel Yuma 5027221029
+| Nama | NRP |
+|---|---|
+| Sylvia Febrianti | 5027221019 |
+| Steven Figo | 5027221021 |
+| Salsabila Amalia | 5027221023 |
+| M. Faishal R. | 5027221026 |
+| Samuel Yuma | 5027221029 |
 
 
 ## I. Introduction
