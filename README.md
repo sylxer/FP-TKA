@@ -19,7 +19,7 @@ Pada final project TKA ini, diminta untuk merancang arsitektur cloud untuk deplo
 
 ## III. Langkah-langkah Implementasi dan Konfigurasi
 
-1. Membuat droplet baru
+1. Membuat droplet baru, mesin virtual yang digunakan untuk menjalankan aplikasi di cloud
 ![alt text](img/ss/1.jpg)
 
 2. Membuat Database dan connection string
