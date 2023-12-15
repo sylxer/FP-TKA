@@ -21,8 +21,9 @@ Pada final project TKA ini, diminta untuk merancang arsitektur cloud untuk deplo
 
 1. Membuat droplet baru, mesin virtual yang digunakan untuk menjalankan aplikasi di cloud
 ![alt text](img/ss/1.jpg)
+![alt text](img/ss/2.jpg)
 
-2. Membuat Database dan connection string
+3. Membuat Database dan connection string
  
 ![alt text](img/img/1.jpg)
 ![alt text](img/img/2.jpg)
@@ -70,6 +71,8 @@ ga tau taro dipoint mana
 ![V.4](img/IV.4.png)
 
 ## VI. Kesimpulan dan saran.
+Cloud computing dapat membantu pengguna untuk menghemat biaya, meningkatkan efisiensi, dan meningkatkan ketersediaan aplikasi dan layanan mereka.
+Setelah melakukan pengecekan harga, harga untuk digital ocean lebih murah
 
 ## Problems
 - Load balancer masih dalam kondisi failure.
