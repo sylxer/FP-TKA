@@ -1,4 +1,12 @@
-# FP-TKA
+# Laporan Final Project TKA
+
+## Kelompok 3 Kelas B
+Sylvia Febrianti 5027221019
+Steven Figo 5027221021
+Salsabila Amalia 5027221023
+M. Faishal R. 5027221026
+Samuel Yuma 5027221029
+
 
 ## I. Introduction
 Anda adalah seorang lulusan Teknologi Informasi, sebagai ahli IT, salah satu kemampuan yang harus dimiliki adalah Keampuan merancang, membangun, mengelola aplikasi berbasis komputer menggunakan layanan awan untuk memenuhi kebutuhan organisasi.(menurut kurikulum IT ITS 2023 😙)
