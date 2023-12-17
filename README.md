@@ -114,3 +114,7 @@ Setelah melakukan pengecekan harga, harga untuk Digital Ocean lebih murah diband
 Penyebab down load balancer belum diketahui secara pasti. Load balancer telah dikonfigurasi ulang dengan jumlah worker yang berbeda, yaitu 2 dan 3 worker. Namun, load balancer tetap down.
 ![alt text](img/img/12.jpg)
 ![alt text](img/img/9.jpg)
+
+
+## Revisi
+
