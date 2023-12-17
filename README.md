@@ -105,18 +105,3 @@ Cloud computing dapat membantu pengguna untuk menghemat biaya, meningkatkan efis
 Setelah melakukan pengecekan harga, harga untuk Digital Ocean lebih murah dibandingkan dengan Microsoft Azure. Sehingga dengan budget $65/bulan sebenarnya sudah dapat mendeploy aplikasi. Dalam hal ini dilakukan konfigurasi satu load balancer, dua worker app, dan satu database yang masing masing memiliki spesifikasi 1vCPU dan 1GB memory. Dengan konfigurasi tersebut, didapat harga $55/bulan.
 
 
-
-## Problems
-- Load balancer masih dalam kondisi failure.
-  Dampak: Load balancer tidak dapat berfungsi sebagai pengatur lalu lintas ke backend server. Hal ini menyebabkan backend server tidak dapat diakses.
-![alt text](img/V/1.jpg)
-![alt text](img/V/2.jpg)
-
-- Load balancer masih dalam kondisi down.
-Penyebab down load balancer belum diketahui secara pasti. Load balancer telah dikonfigurasi ulang dengan jumlah worker yang berbeda, yaitu 2 dan 3 worker. Namun, load balancer tetap down.
-![alt text](img/img/12.jpg)
-![alt text](img/img/9.jpg)
-
-
-## Revisi
-
