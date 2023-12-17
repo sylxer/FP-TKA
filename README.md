@@ -30,9 +30,6 @@ Pada final project TKA ini, diminta untuk merancang arsitektur cloud untuk deplo
 - load balancer
 
 ![alt text](img/II/load_balancer.jpg)
-![alt text](img/II/load_balancer1.jpg)
-![alt text](img/II/load_balancer2.jpg)
-![alt text](img/II/load_balancer3.jpg)
 
 - worker
 
@@ -57,6 +54,11 @@ Tabel Berikut adalah tabel spesifikasi.
 
 
 ## III. Langkah-langkah Implementasi dan Konfigurasi
+
+- Konfigurasi load balancer
+![alt text](img/II/load_balancer1.jpg)
+![alt text](img/II/load_balancer2.jpg)
+![alt text](img/II/load_balancer3.jpg)
 
 1. Membuat droplet baru, mesin virtual yang digunakan untuk menjalankan aplikasi di cloud
 ![alt text](img/ss/1.jpg)
