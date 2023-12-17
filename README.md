@@ -75,19 +75,19 @@ Tabel Berikut adalah tabel spesifikasi.
 
 ## IV. Hasil Pengujian Endpoint setiap API
 - 1. Get All Orders
-![IV.1](img/IV/1.jpg)
+![IV.1](img/image/getall.jpg)
 
 - 2. Get a Specific Order by ID
-![IV.2](img/IV/2.jpg)
+![IV.2](img/image/getbyid.jpg)
 
 - 3. Create a New Order
-![IV.3](img/IV/4.jpg)
+![IV.3](img/image/create.jpg)
 
 - 4. Update an Order by ID
-![IV.4](img/IV/5.jpg)
+![IV.4](img/image/updatebyid.jpg)
 
 - 5. Delete an Order by ID
-![IV.5](img/IV/3.jpg)
+![IV.5](img/image/deletebyid.jpg)
 
 
 ## V. Hasil Pengujian dan Analisis Loadtesting Menggunakan Locust
